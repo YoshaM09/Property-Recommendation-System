@@ -1,0 +1,265 @@
+distance_to_subject,prop_type,stories,address,city_province,sale_date,sale_price,dom,location_similarity,lot_size,age,condition,gla,room_count,bed_count,bath_count,basement_finish,parking,neighborhood,orderID,total_baths
+0.15 KM,Townhouse,2 Storey,930 Amberdale Cres,Kingston ON K7M 6V1,Oct/25/2024,378900,38,Similar,,49,Superior,1044.0,6,3,2:0,Full/Finished,No Garage,,4762597,2.0
+0.02 KM,Townhouse,2 Storey,771 Ashwood Dr,Kingston ON K7M 6X7,Feb/05/2025,327000,51,Inferior,,49,Inferior,1044.0,6,3,1:0,Full/Finished,No Garage,,4762597,1.0
+0.09 KM,Townhouse,2 Storey,995 Amberdale Cres,Kingston ON K7M 6X6,Feb/14/2025,315000,95,Inferior,,49,Inferior,1044.0,6,3,2:0,Full/Part Finished,No Garage,,4762597,2.0
+3.73 KM,Detached,1 Storey,64 Deermist Dr,Porters Lake NS B3E 1P3,Jan/16/2025,800000,141+/-,Inferior,80212.0,11,Similar,1602.0,6,3,2:0,Full/Finished,Dbl. Att. Gar.,,4762739,2.0
+8.98 KM,Detached,1 Storey,85 Oceanic Dr,East Lawrencetown NS B2Z 1T6,Dec/21/2024,950000,280+/-,Inferior,61700.0,11,Good,2100.0,6,3,2:0,Full/Finished,1.5Att.Gar./Dbl.Att.Gar.,,4762739,2.0
+17.33 KM,Detached,1.5 Storey,270 Quinlan Dr,Head of Jeddore NS B0J 1P0,Nov/23/2024,829900,47+/-,Similar,48200.0,12,Good,1662.0,5,2,2:0,Full/Part Finished,Driveway,,4762739,2.0
+0.31 KM,Detached,2 Storey,6 Marshall Ave,Ayr ON N0B 1E0,Mar/26/2025,1150000,7+/-,Similar,15116.0,58,Superior,2003.0,8,4,2F1P,Rec Room,Dbl. Att. Gar.,,4763065,2.5
+0.50 KM,Detached,2 Storey,3219 Roseville Rd,Ayr ON N0B 1E0,Dec/24/2024,1130000,40 +/-,Inferior,11138.0,1,Superior,2940.0,8,4,3F1P,Rec Room,Dbl. Att. Gar.,,4763065,3.5
+23.23 KM,Detached,2 Storey,13 James Crt,Heidelberg ON N0B 2M1,Apr/16/2025,1220000,6 +/-,Superior,29200.0,40,Average,2365.0,7,3,2F1P,Rec/Bath,Dbl. Att. Gar.,,4763065,2.5
+0.78 KM,Detached,Bungalow,48 Stonewalk Dr,Kemptville ON K0G 1J0,Feb/20/2025,812000,8 +/-,Similar,390.0,2018,Inferior,1571.0,6,3,2:0,Full/Part Finished,Dbl. Att. Gar.,,4763086,2.0
+0.53 KM,Detached,Bungalow,36 Stonewalk Dr,Kemptville ON K0G 1J0,Oct/11/2024,855000,8 +/-,Similar,225.0,2011,Inferior,1610.0,6,3,2:1,Full/Finished,Dbl. Att. Gar.,,4763086,2.5
+0.99 KM,Detached,2 Storey,56 Stonewalk Dr,Kemptville ON K0G 1J0,Feb/17/2025,920000,13 +/-,Similar,190.0,1976,Similar,1976.0,8,5,4:0,Full/Finished,Dbl. Att. Gar.,,4763086,4.0
+0.00 KM,Condominium,1 Storey,801-105 Dunbrack St,Halifax NS B3M 3G7,Apr/15/2025,380000,2+/-,Similar,,47,Inferior,1048.0,5,2,1:0,,"1, Surface Stall",,4763087,1.0
+1.43 KM,Condominium,1 Storey,210-40 Regency Park Dr,Halifax NS B3S 1L4,Feb/18/2025,475000,19+/-,Similar,,25,Similar,1553.0,6,2,2:0,,"1, Undgrnd. Stall",,4763087,2.0
+4.97 KM,Condominium,1 Storey,313-79 Bedros Lane,Halifax NS B3M 4X5,Dec/13/2024,520000,62+/-,Superior,,19,Superior,1483.0,6,3,2:0,,"1, Undgrnd. Stall",,4763087,2.0
+0.38 KM,Detached,4 Level Split,123 Crestwood Pl,Dartmouth NS B2V 2P5,Apr/14/2025,703850,2+/-,Similar,7726.0,36,Superior,2100.0,8,4,2:1,Part/Full Finished,Sgl. Att. Gar.,,4764094,2.5
+1.03 KM,Detached,3 Level Split,38 Deerbrooke Dr,Dartmouth NS B2V 1W3,Dec/13/2024,620000,1+/-,Inferior,7623.0,45,Similar,1688.0,6,3,1:1,Full/Finished,Sgl. Bin. Gar,,4764094,1.5
+0.23 KM,Detached,2 Storey,18 Becks Way,Dartmouth NS B2V 2C3,Nov/18/2024,662000,54+/-,Similar,9110.0,39,Inferior,2298.0,8,3,2:1,Full/Finished,Sgl. Att. Gar.,,4764094,2.5
+0.64 KM,Semi Detached,2 Storey,128 Donegall Dr,East York ON M4G 3G8,Mar/31/2025,1680000,7,Similar,2604.0,95,Similar,1306.0,7,3,2:0,Full/Finished,,,4764103,2.0
+0.54 KM,Semi Detached,2 Storey,142 Donlea Dr,East York ON M4G 2M8,Mar/23/2025,1520000,5,Inferior,3348.0,77,Inferior,1334.0,6,3,2:0,Full/Finished,Sgl. Det. gar.,,4764103,2.0
+1.27 KM,Semi Detached,2 Storey,138 Banff Rd,Toronto ON M4P 2P5,Dec/05/2024,1600000,3,Similar,1936.0,81,Similar,1120.0,6,3,2:0,Full/Finished,Sgl. Att. Gar.,,4764103,2.0
+0.15 KM,Townhouse,2 Storey,655 Allied Mews,Stittsville ON K2S 3A1,Dec/09/2024,705000,17 +/-,Similar,35.0,3,Average,1802.0,8,4,2F1H,Full/Finished,Sgl. Att. Gar.,,4761696,2.5
+3.54 KM,Townhouse,2 Storey,514 Triangle St,Stittsville ON K2V 0M8,Mar/29/2025,755000,1 +/-,Similar,25.0,4,Good,2131.0,7,3,2F1H,Full/Finished,Sgl. Att. Gar.,,4761696,2.5
+3.43 KM,Townhouse,2 Storey,225 Lift Lane,Stittsville ON K2V 0M7,Mar/29/2025,768800,23 +/-,Similar,55.0,5,Good,1758.0,7,3,2F1H,Full/Finished,Dbl. Att. Gar.,,4761696,2.5
+6.41 KM,Condominium,1 Storey,306-79 Bedros Lane,Halifax NS B3M 4X5,Feb/24/2025,720000,5+/-,Similar,,20,Inferior,1816.0,7,2,2:0,,"1, Undgrnd. Stall",,4762154,2.0
+0.00 KM,Condominium,2 Storey,401-11 Springvale Ave,Halifax NS B3N 0A3,Nov/21/2024,900000,23+/-,Inferior,,19,Superior,2206.0,7,2,2:0,,"2, Undgrnd. Stalls",,4762154,2.0
+0.00 KM,Condominium,1 Storey,111-11 Springvale Ave,Halifax NS B3N 0A3,Oct/18/2024,720000,0+/-,Inferior,,17,Inferior,1342.0,6,2,2:0,,"1, Undgrnd. Stall",,4762154,2.0
+0.15 KM,Detached,2 Storey,118 Sandpiper Pk,Chestermere AB T1X 1Y8,Apr/07/2025,860000,31,Inferior,500.0,3,Good,2367.0,10,4,3F,Full/Finished,Trpl. Att. Gar.,,4762330,3.0
+0.50 KM,Detached,2 Storey,19 Sandpiper Bend,Chestermere AB T1X 2S6,Feb/08/2025,890000,48,Inferior,486.0,1,Good,2614.0,9,5,4F,Full/Finished,Trpl. Att. Gar.,,4762330,4.0
+1.11 KM,Detached,2 Storey,109 Kinniburgh Cove,Chestermere AB T1X 0Y6,Jan/27/2025,860000,31,Inferior,459.0,7,Good,2608.0,9,4,2F 1F,Full/Finished,Trpl. Att. Gar.,,4762330,3.0
+,Detached,1 Storey,58 Blind Bay Dr,Blind Bay NS B3Z 4C1,Jan/25/2025,1189500,179+/-,Inferior,169884.0,21,Good,2555.0,7,3,3:0,,Dbl. Det. Gar.,,4762406,3.0
+,Detached,1 Storey,401 Viewmount Dr,Head of St Margarets Bay NS B3Z 2G4,Dec/19/2024,1653000,20+/-,Superior,24650.0,54,Good,1829.0,6,1,1:1,Full/Finished,Driveway,,4762406,1.5
+,Detached,1.5 Storey,2 Crouchers Point Rd,Glen Haven NS B3Z 2W4,Jun/28/2024,1800000,0+/-,Superior,59396.0,34,Good,3024.0,10,3,2:1,Full/Finished,Dbl.At.G.+Sn.Det.G.,,4762406,2.5
+1.22 KM,Semi Detached,2 Storey,74 Gianmarco Way,Maple ON L6A 3J2,Mar/09/2025,1105000,5,Similar,2433.0,25,Superior,1695.0,6,3,2:2,Full/Finished,Sgl. Att. Gar.,,4761220,3.0
+1.39 KM,Semi Detached,2 Storey,20 Del Francesco Way,Maple ON L6A 3J6,Apr/02/2025,1045000,16,Similar,2647.0,24,Inferior,1572.0,7,3,3:1,Finished-illegal apartment,Sgl. Att. Gar.,,4761220,3.5
+2.09 KM,Semi Detached,2 Storey,3 Blackthorn Dr,Maple ON L6A 3C3,Mar/04/2025,1150000,8,Similar,2680.0,23,Superior,1489.0,7,3,3:1,Full/Finished,Sgl. Att. Gar.,,4761220,3.5
+11.52 KM,Detached,1 Storey,428 Heddas Way,Fall River NS B2T 0M2,Feb/21/2025,1895000,123+/-,Inferior,131115.0,4,Superior,2354.0,7,3,2:1,Full/Finished,Dbl. (2Bay) Att. Gar.,,4761433,2.5
+1.14 KM,Detached,2 Storey,158 Eaglewood Dr,Bedford NS B4A 3B2,Mar/21/2025,1185000,3+/-,Similar,11029.0,44,Superior,2494.0,7,4,3:0,Full/Finished,Dbl. Att. Gar.,,4761433,3.0
+2.91 KM,Detached,2 Storey,107 Ahmadi Cres,Bedford NS B4A 4E5,Sep/20/2024,1200000,69+/-,Similar,18036.0,20,Superior,3774.0,11,5,3:1,Full/Finished,Dbl. Att. Gar.,,4761433,3.5
+1.89 KM,Detached,Bungalow,868 Roshan Dr,Kingston ON K7P 0B2,Mar/19/2025,797000,107,Inferior,49.0,13,Inferior,1805.0,17,2+2,3:0,Full/Finished/Inlaw,Double Attached,,4761446,3.0
+0.51 KM,Detached,Bungalow,1249 Carfa Cres,Kingston ON K7P 0M7,Nov/16/2024,1095000,10,Superior,50.0,5,Superior,1741.0,6+3,3+1,3:0,Full Finished/Walkout,Double Attached,,4761446,3.0
+1.12 KM,Detached,Split Level,891 Safari Dr,Kingston ON K7M 6W2,Nov/20/2024,856000,23,Inferior,60.0,46,Inferior,2094.0,12+4,3+1,2:1,Full Finished/Walkout,Double Attached,,4761446,2.5
+1.30 KM,Detached,2 Storey,209 Glen Arbour Way,Hammonds Plains NS B4B 1T5,Apr/07/2025,930000,93+/-,Superior,52500.0,25,Superior,3167.0,7,2,2:1,Full/Finished,Dbl. Att. Gar.,,4759647,2.5
+5.27 KM,Detached,2 Storey,1 Virginia Dr,Hammonds Plains NS B4B 1S5,Feb/21/2025,692000,82+/-,Inferior,50853.0,28,Inferior,2343.0,7,4,2:1,Full/Finished,Dbl. (2Bay) Att. Gar.,,4759647,2.5
+3.50 KM,Detached,2 Storey,1693 White Hills Run,Hammonds Plains NS B4B 1W1,Feb/14/2025,588000,5+/-,Inferior,82700.0,21,Inferior,1664.0,6,3,2:1,Full/Unfinished,Driveway,,4759647,2.5
+1.74 KM,Detached,2-Storey,142 Chenoa Way,Nepean ON K2J 0W8,Jan/25/2025,1435000,79,Similar,50.15,2009,Similar,3574.0,8,4,4:1,Full/Finished,Dbl. Att. Gar.,,4759723,4.5
+1.05 KM,Detached,2-Storey,100 Brambling Way,Nepean ON K2J 5V3,Jan/31/2025,1150000,16,Similar,58.12,2012,Inferior,3756.0,8,4,4:1,Full/Finished,Dbl. Att. Gar.,,4759723,4.5
+0.91 KM,Detached,2-Storey,334 Shadehill Cres,Nepean ON K2J 0L6,Feb/05/2025,1244900,13,Similar,49.98,2007,Inferior,2442.0,8,3,3:1,Full/Finished,Dbl. Att. Gar.,,4759723,3.5
+1.51 KM,Detached,Bungalow Raised,3948 Vandorf Siderd,Stouffville ON L4A 4K3,Mar/28/2025,2580000,104,Similar,10.029,12,Similar,2017.0,6,3,3:1,Full Finished/Walkout,Dbl. Att. Gar.,,4760530,3.5
+7.58 KM,Detached,Bungalow,11 Union St,Stouffville ON L0H 1G0,Dec/03/2024,2430000,60,Similar,1.22,37,Inferior,2133.0,7,3,2:2,Full Finished/Walkout,Dbl. Att. Gar.,,4760530,3.0
+3.46 KM,Detached,Bungalow,9 Elias Snider Crt,Stouffville ON L4A 2G3,Sep/06/2024,2200000,59,Similar,1.47,25,Inferior,2676.0,11,4,4:1,Full/Finished,Trpl. Att. Gar.,,4760530,4.5
+0.63 KM,Townhouse,2 1/2 Storey,133 William St,Kingston ON K7L 2C7,Jan/20/2025,890000,13,Superior,19.0,100,Inferior,2250.0,9,5,2:1,Full/Part Finished,1 Parking space,,4760630,2.5
+0.37 KM,Townhouse,2 1/2 Storey,297 University Ave,Kingston ON K7L 3R3,Mar/26/2025,770000,9,Similar,17.0,100,Inferior,1750.0,10,5,1:1,Cellar,1 Parking space,,4760630,1.5
+0.07 KM,Townhouse,2-Storey,368 Barrie St,Kingston ON K7K 3T3,Apr/07/2025,770000,13,Similar,17.0,100,Inferior,1750.0,10,6,2:0,Cellar,No Parking,,4760630,2.0
+0.37 KM,Detached,2 Storey,57 Taleen Dr,Lower Sackville NS B4C 4A5,Feb/21/2025,487000,2,Similar,3400.0,32,Similar,1200.0,6,3,1:1,Full/Finished,Driveway,,4760651,1.5
+0.12 KM,Detached,2 Storey,4 Victoria Dr,Lower Sackville NS B4C 4C3,Mar/27/2025,505000,13,Similar,3719.0,32,Similar,1540.0,6,3,1:1,Full/Finished,Driveway,,4760651,1.5
+1.62 KM,Detached,2 Storey,9 Penstock Crt,Middle Sackville NS B4E 2L6,Dec/17/2024,475000,4,Similar,3148.0,37,Similar,1320.0,6,3,1:1,Full/Part Finished,Driveway,,4760651,1.5
+0.06 KM,Detached,2 Storey,1059 Cornerstone St NE,Calgary AB T3N 1G6,Mar/20/2025,686000,67 +/-,Similar,285.0,9,Good,1808.0,8,3,2F 1H,Full/Finished,Dbl. Det. Gar.,,4760900,2.5
+1.33 KM,Detached,2 Storey,312 Redstone Ave NE,Calgary AB T3N 1M8,Feb/12/2025,690000,27 +/-,Similar,282.0,6,Good,1801.0,6,3,2F 1H,Full/Finished,Dbl. Det. Gar.,,4760900,2.5
+1.53 KM,Detached,2 Storey,90 Corner Ridge Mews NE,Calgary AB T3N 1X4,Mar/10/2025,680000,58 +/-,Superior,314.0,4,Good,1640.0,7,3,2F 1H,Full/Finished,Off Street,,4760900,2.5
+0.07 KM,Detached,Bungalow,523 35A St NW,Calgary AB T2N 3A1,Nov/22/2024,802500,15,Superior,492.0,73,Similar,94.0,5,2,2F,Full/Finished,Sgl. Det. gar.,,4742669,2.0
+1.77 KM,Detached,1.5 Storey,2425 3 Ave NW,Calgary AB T2N 0L2,Jan/24/2025,670000,2,Superior,503.0,80,Inferior,94.0,5,2,1F,Part/Unfinished,Sgl. Det. gar.,,4742669,1.0
+1.54 KM,Detached,Bungalow,2536 4 Ave NW,Calgary AB T2N 0P4,Dec/26/2024,810000,21,Superior,501.0,74,Similar,78.0,4,2,2F,Full/Finished,Sgl. Det. gar.,,4742669,2.0
+2.17 KM,Detached,2 Storey,3116 Winspear Cres SW,Edmonton AB T6X 1P3,Nov/01/2024,842500,90,Inferior,514.0,10,Similar,2770.0,8,4,2 Full/1Half,Full Finished/Walkout,Dbl. Att. Gar.,,4752865,2.5
+4.69 KM,Detached,2 Storey,716 40 St SW,Edmonton AB T6X 2G4,Aug/25/2024,844707,33,Inferior,430.0,9,Similar,2556.0,7,3,2 Full/1Half,Full Finished/Walkout,Dbl. Att. Gar.,,4752865,2.5
+3.27 KM,Detached,2 Storey,1253 Adamson Dr SW,Edmonton AB T6W 1Z4,Jan/24/2025,1194500,108,Superior,675.0,13,Superior,3364.0,8,4,2 Full/1Half,Full Finished/Walkout,Trpl. Att. Gar.,,4752865,2.5
+4.01 KM,Detached,2 Storey,1959 Montclair Ave,Orléans ON K1W 1H9,Feb/07/2025,942500,8 +/-,Similar,47.0,27,Inferior,2596.0,10,4,2:1,Full/Unfinished,Dbl. Att. Gar.,,4755196,2.5
+0.43 KM,Detached,2 Storey,415 Hepatica Way,Orléans ON K4A 1G3,Mar/31/2025,1085000,38 +/-,Similar,42.0,7,Inferior,3351.0,10,4,3:1,Full/Unfinished,Dbl. Att. Gar.,,4755196,3.5
+0.84 KM,Detached,2 Storey,156 Aquarium Ave,Orléans ON K4A 1L1,Mar/08/2025,1130000,2 +/-,Similar,42.0,5,Superior,3071.0,8,4,3:1,Full/Finished,Dbl. Att. Gar.,,4755196,3.5
+2.30 KM,High Rise Apartment,1 Storey,1606-1111 10 St SW,Calgary AB T2R 1E3,Jan/31/2025,517500,14 +/-,Inferior,,13,Inferior,965.0,6,2,2F,,1 Underground Stall,,4756192,2.0
+1.92 KM,High Rise Apartment,1 Storey,3205-930 6 Ave SW,Calgary AB T2P 1J3,Feb/12/2025,574900,31 +/-,Superior,,8,Inferior,980.69,6,2,2F,,1 Underground Stall,,4756192,2.0
+0.21 km,High Rise Apartment,1 Storey,Unit 2602 - 510 6 Avenue SE,"Calgary , Alberta, T2G 0H1",Mar/27/2025,607500,41 +/-,Superior,,9,Inferior,1037.62,5,2,2F,,2 Underground Stalls,,4756192,2.0
+0.51 KM,Detached,2 Storey,3018 Arthurs Cres SW,Edmonton AB T6W 2H9,Nov/21/2024,441500,83,Similar,253.0,11,Similar,1425.0,5,3,2 Full/1Half,Full/Unfinished,Dbl. Det. Gar.,,4756320,2.5
+0.67 KM,Detached,2 Storey,146 Allard Link SW,Edmonton AB T6W 2J1,Oct/12/2024,468000,99,Similar,348.0,9,Similar,1580.0,5,3,2 Full/1Half,Full/Unfinished,Dbl. Det. Gar.,,4756320,2.5
+0.81 KM,Detached,2 Storey,645 Allard Blvd SW,Edmonton AB T6W 2G3,Feb/27/2025,478000,10,Similar,406.0,11,Similar,1440.0,5,3,2 Full/1Half,Full/Unfinished,Dbl. Det. Gar.,,4756320,2.5
+1.39 KM,Townhouse,2 Storey,283 Falsetto St,Orléans ON K1W 0S4,Feb/04/2025,635000,21,Similar,24.88,2024,Superior,1569.0,6,3,3:1,Full/Finished,Sgl. Att. Gar.,,4756829,3.5
+1.57 KM,Townhouse,2 Storey,783 Percifor Way,Orléans ON K1W 0E5,Feb/21/2025,612500,25,Similar,20.96,2011,Similar,1740.0,7,3,2:1,Full/Finished,Sgl. Att. Gar.,,4756829,2.5
+1.61 KM,Townhouse,2 Storey,178 Joshua St,Orléans ON K1W 0C4,Feb/16/2025,632000,9,Similar,22.44,2019,Superior,1515.0,6,3,2:1,Full/Finished,Sgl. Att. Gar.,,4756829,2.5
+0.77 KM,Detached,Bi-Level,924 15 Ave NE,Calgary AB T2E 1J1,Feb/26/2025,760000,22,Superior,557.0,72,Similar,99.0,5,3,2F,Full/Finished,Dbl. Det. Gar.,,4757939,2.0
+0.88 KM,Detached,Bungalow,632 12 Ave NE,Calgary AB T2E 1B1,Jan/03/2025,773000,97,Similar,557.0,81,Superior,58.0,4,1,1F,Full/Finished,Dbl. Det. Gar.,,4757939,1.0
+3.01 KM,Detached,Bungalow,3310 Centre St NE,Calgary AB T2E 2X8,Jan/06/2025,650000,123,Inferior,557.0,76,Similar,88.0,5,2,2F,Full/Finished,Dbl. Det. Gar.,,4757939,2.0
+0.61 KM,Low Rise Apartment,1 Storey,2207-950 Arbour Lake Rd NW,Calgary AB T3G 5B3,Apr/04/2025,378900,77 +/-,Similar,,22,Good,1130.0,7,2,2F,,2 UG Stalls,,4757966,2.0
+0.00 KM,Low Rise Apartment,1 Storey,215-88 Arbour Lake Rd NW,Calgary AB T3G 0C2,Mar/11/2025,328500,35 +/-,Similar,,17,Good,950.0,6,2,2F,,1 UG Stall,,4757966,2.0
+0.00 KM,Low Rise Apartment,1 Storey,206-88 Arbour Lake Rd NW,Calgary AB T3G 0C2,Mar/12/2025,384000,19 +/-,Similar,,17,Good,1060.09,6,2,2F,,2 UG Stalls,,4757966,2.0
+0.06 KM,Detached,2 Storey,4 Rockcliff Pt NW,Calgary AB T3G 5Z4,Dec/09/2024,1249000,46,Inferior,677.0,19,Good,285.0,8,3,3F 1H,Full/Finished,Trpl. Att. Gar.,,4758025,3.5
+0.24 KM,Detached,2 Storey,61 Rockford Rd NW,Calgary AB T3G 0E1,Jan/16/2025,1235000,6,Similar,512.0,12,Good,240.0,8,3,3F 1H,Full/Finished,Dbl. Att. Gar.,,4758025,3.5
+0.43 KM,Detached,2 Storey,1 Rock Lake Pt NW,Calgary AB T3G 0E9,Mar/18/2025,1175000,12,Inferior,546.0,2,Superior,230.0,9,4,3F,Full/Unfinished,Trpl. Att. Gar.,,4758025,3.0
+0.17 KM,Condominium,1 Storey,216-100 Auburn Meadows Manor SE,Calgary AB T3M 3H2,Apr/03/2025,378000,28,Similar,,5,Good,934.0,5,2,2,,"1, Undgrnd. Stall",,4758316,0.0
+,Condominium,Apartment-Low-Rise (,411-25 Auburn Meadows Ave SE,Calgary AB T3M 2L3,Feb/13/2025,390000,22,Similar,,10,Good,881.0,7,2,2,,"2, Undgrnd. Stalls",,4758316,0.0
+1.18 KM,Condominium,Apartment-Low-Rise (,105-22 Auburn Bay Link SE,Calgary AB T3M 1Z8,Mar/15/2025,344000,17,Similar,,10,Inferior,875.0,6,2,2,,"1, Undgrnd. Stall",,4758316,0.0
+9.03 KM,Detached,1 Storey,20 Creekside Way,Mill Cove NS B0J 1T0,Feb/21/2025,550000,55+/-,Similar,51836.0,4,Good,1288.0,5,3,2:0,Crawl Space,Gravel Driveway,,4758324,2.0
+1.30 KM,Detached,Bi-Level,102 Deeridge Rd,Black Point NS B0J 1T0,Jan/10/2025,649000,1+/-,Similar,67188.0,1,Good,1211.0,6,3,2F,Full/Finished,DblBuiltin/PvdDway,,4758324,2.0
+19.97 KM,Detached,1 Storey,5296 Highway 329,Blandford NS B0J 1T0,Oct/25/2024,620000,87+/-,Superior,93131.0,44,Average,1085.0,6,3,1F,Part Finished,1.5Detached/GravelDwy,,4758324,1.0
+0.34 KM,High Rise Apartment,1 Storey,904-71 Simcoe St,Toronto ON M5J 2S9,Feb/04/2025,970000,64,Similar,,36,Similar,1340.0,5,2 + 1,2:0,,"1, Undgrnd. Stall",,4758529,2.0
+0.05 KM,High Rise Apartment,1 Storey,3103-126 Simcoe St,Toronto ON M5H 4E6,Mar/06/2025,785000,27,Similar,,12,Superior,853.0,5,2,2:0,,"1, Undgrnd. Stall",,4758529,2.0
+0.77 KM,High Rise Apartment,1 Storey,2805-361 Front St W,Toronto ON M5V 3R5,Feb/27/2025,920000,50,Similar,,23,Superior,1043.0,6,2+ 1,2:0,,"1, Undgrnd. Stall",,4758529,2.0
+.05 km,Townhouse,Bungalow,57 Morenz Terr,Kanata ON K2K 3H2,Sep/25/2024,900000,2,Similar,41.0,22,Good,1470.0,7,2,3F,Full Finished/Walkout,Dbl. Att. Gar.,,4758615,3.0
+2.2 km,Townhouse,Bungalow,90 Kinmount Pvt,Kanata ON K2T 1K1,Mar/24/2025,740000,42,Similar,28.0,23,Inferior,1465.0,9,2,2F,"Full, Unfinished",Dbl. Att. Gar.,,4758615,2.0
+1.7 km,Townhouse,Bungalow,41 Coulson Crt,Kanata ON K2K 2Z5,Apr/04/2025,790000,66,Similar,28.0,25,Average,1475.0,8,3,3F,Full Finished/Walkout,Dbl. Att. Gar.,,4758615,3.0
+2.86 KM,Detached,2 Storey,1 Partridge Nest Dr,Mineville NS B2Z 1J8,Jan/17/2025,525000,20+/-,Inferior,28176.0,42,Inferior,1693.0,7,4,1:1,Full/Finished,Sgl. Det. gar.,,4758672,1.5
+14.66 KM,Detached,2 Storey,6547 Highway 7,Gaetz Brook NS B0J 2L0,Dec/13/2024,420000,3+/-,Inferior,21446.0,80,Similar,1100.0,6,3,2:0,Crawl Space,"Driveway, Slab",,4758672,2.0
+0.15 KM,Detached,2 Storey,47 Denise Dr,Lake Echo NS B3E 1M5,Sep/23/2024,585000,77+/-,Similar,24343.0,39,Similar,2402.0,7,4,2:0,Full/Finished,Sgl. Att. Gar.,,4758672,2.0
+2.70 KM,Detached,2 Storey,275 Lucas Way NW,Calgary AB T3P 0R5,Feb/18/2025,1038888,29,Superior,390.0,3,Similar,233.0,7,3,3F1H,Full/Finished,Dbl. Att. Gar.,,4759024,3.5
+2.95 KM,Detached,2 Storey,18 Carrington Rd NW,Calgary AB T3P 1L8,Apr/03/2025,1020000,12,Superior,384.0,4,Inferior,248.0,9,5,4F,Full/Finished,Dbl. Att. Gar.,,4759024,4.0
+7.38 KM,Detached,2 Storey,85 Sage Hill Cres NW,Calgary AB T3R 1Y2,Mar/04/2025,1005000,26,Similar,333.0,4,Similar,224.0,8,4,2F1H,Full/Finished,Dbl. Att. Gar.,,4759024,2.5
+9.73 KM,Detached,Bungalow,5 Willowdale Dr,Musquodoboit Harbour NS B0J 2L0,Mar/29/2025,599000,47,Superior,40000.0,8,Superior,1382.0,5,2,1:0,Secondary Suite,Sgl. Att. Gar.,,4759088,1.0
+9.68 KM,Detached,3 Level Split,2 Willowdale Dr,Musquodoboit Harbour NS B0J 2L0,Feb/06/2025,500000,4,Superior,32393.0,27,Inferior,1182.0,6,3,2:0,Part/Full Finished,Dbl (2 Bay) Det. Gar.,,4759088,2.0
+0.93 KM,Detached,Bi-Level,137 Myers Point Rd,Head of Jeddore NS B0J 1P0,Oct/18/2024,429900,2,Similar,48085.0,30,Inferior,864.0,5,2,1:0,Full/Finished,1.5 Det. Gar.,,4759088,1.0
+0.99 KM,Detached,1 Storey,46 Highway 3,Hubbards NS B0J 1T0,Mar/28/2025,375000,31+/-,Similar,8600.0,64,Superior,1138.0,6,3,1:0,Full/Part Finished,Driveway,,4759260,1.0
+9.66 KM,Detached,1 Storey,7730 Highway 329,East River Point NS B0J 1T0,Dec/31/2024,348500,5+/-,Similar,21730.0,38,Similar,1092.0,6,3,1:0,Full/Unfinished,Driveway (pvd),,4759260,1.0
+9.79 KM,Detached,1 Storey,43 Summer Lane,Boutiliers Point NS B3Z 1V3,Oct/18/2024,375000,70+/-,Similar,67082.0,65,Similar,889.0,4,2,1:0,Crawl Space,Dbl. Det. Gar.,,4759260,1.0
+0.43 KM,Detached,2 Storey,393 Stoneway Dr,Nepean ON K2G 6G7,Mar/16/2025,725000,71,Similar,37.0,1995,Similar,1688.0,7,3,2:1,Full/Finished,Sgl. Att. Gar.,,4759498,2.5
+0.92 KM,Detached,2 Storey,24 Avonhurst Ave,Nepean ON K2J 4K9,Mar/27/2025,650000,78,Similar,35.0,1996,Similar,1453.0,6,3,1:1,Full/Finished,Sgl. Att. Gar.,,4759498,1.5
+1.90 KM,Detached,2 Storey,53 Armagh Way,Nepean ON K2J 4C1,Apr/04/2025,759500,9,Similar,35.17,1993,Similar,1944.0,7,3,3:1,Full/Part Finished,Dbl. Att. Gar.,,4759498,3.5
+0.43 KM,Detached,1 Storey,34 Craigmore Dr,Halifax NS B3N 1M2,Dec/20/2024,845000,32+/-,Inferior,22489.0,65,Similar,1374.0,6,3,1:0,Full/Part Finished,Single Builtin,,4759512,1.0
+0.28 KM,Detached,1 Storey,4 Piers Ave,Halifax NS B3N 1Z3,Dec/03/2024,702000,3+/-,Inferior,7000.0,69,Similar,1060.0,6,3,1:0,Full/Finished,Driveway,,4759512,1.0
+0.22 KM,Detached,1 Storey,44 Walton Dr,Halifax NS B3N 1X7,Sep/21/2024,888000,7+/-,Superior,14738.0,72,Inferior,1921.0,8,4,2:0,Full/Part Finished,Dbl (2 Bay) Builtin,,4759512,2.0
+0.79 KM,Duplex,2 Storey,135 Hawthorne St,Dartmouth NS B2Y 2Z1,Mar/31/2025,951000,5+/-,Superior,3796.0,102,Superior,1560.0,6,3,3:0,Full/Finished,Driveway,,4759561,3.0
+0.89 KM,Detached,2 Storey,53 Pine St,Dartmouth NS B3A 1X3,Feb/19/2025,908000,3+/-,Similar,6500.0,102,Similar,1856.0,7,3,1:1,Full/Finished,Driveway,,4759561,1.5
+0.34 KM,Duplex,2 Storey,73 Prince Albert Rd,Dartmouth NS B2Y 1M1,May/18/2024,782500,18+/-,Similar,4000.0,95,Inferior,2302.0,7,3,2:0,Full/Unfinished,Driveway,,4759561,2.0
+0.48 KM,Semi Detached,Bi-Level,1702 Caldwell Rd,Eastern Passage NS B3G 1C6,Jan/13/2025,320000,38+/-,Inferior,4641.0,38,Inferior,1250.0,6,3,1:1,,Paved Driveway,,4759562,1.5
+1.05 KM,Semi Detached,2 Storey,49 Peter Crt,Eastern Passage NS B3G 1S9,Oct/18/2024,370000,16+/-,Similar,3238.0,21,Superior,1403.0,6,3,2F,,Paved Driveway,,4759562,2.0
+,Semi Detached,2 Storey,177 Melrose Cres,Eastern Passage NS B3G 1P2,Oct/16/2024,367000,2+/-,Similar,3426.0,28,Average,1281.0,6,3,1:1,,Paved Driveway,,4759562,1.5
+0.16 KM,Detached,2 Storey,23 White Dove Crt,Halifax NS B3N 3G5,Mar/25/2025,680000,2+/-,Superior,5058.0,22,Similar,1920.0,6,3,2:1,Full/Finished,Driveway,,4759604,2.5
+0.32 KM,Detached,2 Storey,45 Ridgestone Crt,Halifax NS B3N 3H8,Jan/24/2025,678000,91+/-,Superior,4429.0,18,Similar,1834.0,8,4,2:1,Full/Finished,Driveway,,4759604,2.5
+0.11 KM,Detached,2 Storey,94 Tamarack Dr,Halifax NS B3N 3H1,Nov/16/2024,600000,2+/-,Inferior,4359.0,22,Superior,1353.0,6,3,2:1,Full/Finished,Driveway,,4759604,2.5
+0.49 KM,Detached,1.5 Storey,36 Mount Pleasant Ave,Dartmouth NS B3A 3T4,Apr/07/2025,787000,5+/-,Similar,4343.0,70,Similar,1879.0,8,4,1:1,Full/Finished,Sgl. Att. Gar.,,4759846,1.5
+0.41 KM,Detached,3 Level Split,2 Lawnsdale Dr,Dartmouth NS B3A 2N2,Feb/17/2025,780000,6+/-,Similar,5700.0,71,Superior,1892.0,8,4,2:0,Full/Part Finished,Driveway,,4759846,2.0
+0.13 KM,Detached,Bi-Level,40 Kingston Cres,Dartmouth NS B3A 2M2,Nov/20/2024,708000,2+/-,Similar,7370.0,51,Inferior,1531.0,6,3,1:1,Full/Finished,1.5 Builtin,,4759846,1.5
+0.01 KM,Townhouse,2 Storey,366 Bruyère St,Ottawa ON K1N 5E7,Jan/31/2025,1194900,8 +/-,Similar,22.63,1907,Superior,1582.0,8,3,2:0,Full/Unfinished,Driveway surface,,4764028,2.0
+0.80 KM,Townhouse,3 Storey,2 Brigadier Pvt,Ottawa ON K1N 1E6,Aug/14/2024,922500,12 +/-,Similar,30.9,1996,Inferior,1823.0,7,2,2:0,Full/Finished,Sgl. Att. Gar.,,4764028,2.0
+0.91 KM,Townhouse,3 Storey,383 Daly Ave,Ottawa ON K1N 6G8,Jul/15/2025,1247000,28 +/-,Similar,24.0,1867,Similar,3336.0,10,5,3:1,Full/Finished,Sgl. Att. Crprt.,,4764028,3.5
+0.13 KM,Detached,Bungalow,1035 Connery Ave,Ottawa ON K1G 2N9,Mar/06/2025,550000,6 +/-,Similar,53.0,1961,Similar,1109.0,6,3,2:0,Full/Finished,Sgl. Att. Crprt.,,4766326,2.0
+0.68 KM,Detached,Bungalow,816 Dickens Ave,Ottawa ON K1G 2X8,Jan/10/2025,615000,36 +/-,Similar,43.0,1960,Average,1313.0,6,3,2:0,Full/Finished,Driveway surface,,4766326,2.0
+0.91 KM,Detached,Bungalow,826 Hamlet Rd,Ottawa ON K1G 1R2,Apr/14/2025,656000,20 +/-,Similar,56.0,1956,Superior,1204.0,6,3,1:1,Full/Finished,Driveway surface,,4766326,1.5
+0.07 KM,Condominium,2 Storey,75 Forestside Cres,Halifax NS B3M 1M5,Mar/06/2025,433000,14,Similar,,55,Superior,1386.0,5,4,1:1,Part Finished,Lot,,4766430,1.5
+0.01 KM,Condominium,2 Storey,92 Forestside Cres,Halifax NS B3M 1M4,Feb/26/2025,405000,4,Similar,,55,Inferior,1386.0,5,3,1:1,Full/Part Finished,Lot,,4766430,1.5
+0.30 KM,Condominium,2 Storey,238 Willett St,Halifax NS B3M 3C8,Jul/18/2024,450000,5,Similar,,51,Superior,1366.0,6,4,1:1,Full/Part Finished,Lot,,4766430,1.5
+0.00 KM,High Rise Apartment,1 Storey,1112-730 2 Ave SW,Calgary AB T2P 1R8,Mar/28/2025,405000,38 +/-,Inferior,,1,Similar,512.09,5,1,1F,No Basement,Street,,4767066,1.0
+1.57 KM,High Rise Apartment,1 Storey,2104-930 16 Ave SW,Calgary AB T2R 1C2,Apr/09/2025,412500,21 +/-,Superior,,6,Inferior,552.87,5,1,1F,No Basement,"1, Undgrnd. Stall",,4767066,1.0
+0.83 KM,High Rise Apartment,1 Storey,1606-108 Waterfront Crt SW,Calgary AB T2P 1K7,Feb/27/2025,385000,27 +/-,Similar,,7,Inferior,558.27,5,1,1F,No Basement,"1, Undgrnd. Stall",,4767066,1.0
+0.51 KM,Detached,2 Storey,111 Damselfly Way,Nepean ON K2J 6C4,Mar/05/2025,750000,6,Similar,33.43,2016,Similar,1919.0,7,3,2:1,"Full, Unfinished",Sgl. Att. Gar.,,4768014,2.5
+1.22 KM,Detached,2 Storey,328 Appalachian Cir,Nepean ON K2J 6X3,Feb/26/2025,715000,49,Similar,35.0,2023,Similar,1746.0,6,3,2:1,Full/Part Finished,Sgl. Att. Gar.,,4768014,2.5
+1.52 KM,Detached,2 Storey,2402 Regatta Ave,Nepean ON K2J 0T8,Apr/14/2025,779000,32,Similar,33.95,2009,Inferior,1993.0,6,3,3:1,Full/Finished,Sgl. Att. Gar.,,4768014,3.5
+11.77 KM,Duplex,2.5 Storey,226 Kent St,Port Colborne ON L3K 3A1,Feb/24/2025,573000,45,Similar,40.0,105,Similar,2185.0,9,4,2:0,Full/Unfinished,Dbl. Det. Gar.,,4768037,2.0
+1.56 KM,Duplex,Split Level,168 Windsor St,Welland ON L3C 6T6,Dec/12/2024,570000,77,Similar,30.0,39,Superior,2054.0,10,5,2:0,Adjusted above in LFA,Driveway,,4768037,2.0
+5.44 KM,Duplex,2 Storey,1105 Haist Street,Pelham ON L0S 1E2,Dec/09/2024,645000,24,Superior,75.0,97,Similar,1962.0,9,4,2:0,Full/Unfinished,Driveway,,4768037,2.0
+19.68 KM,Townhouse,2 Storey,21-4552 Portage Rd,Niagara Falls ON L2E 0B8,Mar/26/2025,655000,111,Superior,,2024,Inferior,1600.0,8,4,2:1,Full/Unfinished,2 Car Built-in,,4763606,2.5
+1.06 KM,Townhouse,2 Storey,1-150 Broadway,Welland ON L3C 0J2,Apr/03/2025,520000,64,Similar,,2023,Inferior,1400.0,6,3,2:1,Full; part finished/3pc,1 Car Detached,,4763606,2.5
+6.03 KM,Townhouse,2 Storey,14-96 Welland Rd,Fonthill ON L0S 1E4,Apr/16/2025,715000,58,Superior,,4,Superior,1675.0,6,3,2:1,Full/Unfinished,1 Car Detached,,4763606,2.5
+1.12 KM,Detached,1 Storey,9 Chittick Ave,Dartmouth NS B2Y 3J7,Feb/28/2025,547500,4+/-,Superior,8799.0,70,Superior,1303.0,6,3,1:0,Full/Part Finished,Driveway,,4763898,1.0
+0.67 KM,Detached,1 Storey,27 Cranston Ave,Dartmouth NS B2Y 3G1,Jan/31/2025,441200,7+/-,Superior,10030.0,59,Inferior,1215.0,6,3,1:0,Full/Unfinished,Sn. Bin. Gar. (-),,4763898,1.0
+0.67 KM,Detached,1.5 Storey,13 Chestnut Lane,Dartmouth NS B2Y 3X1,Nov/08/2024,431000,4+/-,Inferior,6500.0,79,Superior,1004.0,5,3,1:0,Full/Unfinished,Driveway (gravel),,4763898,1.0
+0.45 KM,Detached,2 Storey,1131 Wintergreen Cres,Kingston ON K7P 2G3,Jan/30/2025,757750,24,Superior,60.0,36,Average,2617.0,14+6,4,3:1,Full/Finished,Double Attached,,4765154,3.5
+0.16 KM,Detached,Split Level,829 Larchwood Cres,Kingston ON K7P 2P8,Mar/05/2025,585000,36,Superior,47.8,36,Inferior,1732.0,5+4,3+1,1:1,Part / Finished,Single Attached,,4765154,1.5
+0.50 KM,Detached,2 Storey,768 Cataraqui Woods Dr,Kingston ON K7P 2R1,Mar/31/2025,544000,4,Similar,38.8,36,Inferior,1221.0,8+2,3,1:1,Full/Part Finished,No Garage,,4765154,1.5
+5.07 KM,Detached,1 Storey,23805 Merlin Rd,Tilbury ON N0P 2L0,Feb/20/2025,354500,29,Similar,80.0,36,Inferior,1765.0,9,3,1:0,Crawl Space,Sgl. Det. gar.,,4765502,1.0
+10.16 KM,Detached,1.5 Storey,6129 Seventh Line W,Merlin ON N0P 1W0,Jan/22/2025,492500,40,Similar,132.0,90,Superior,1864.0,12,3,2:1,Crawl Space,Driveway,,4765502,2.5
+2.44 KM,Detached,2 Storey,6673 Riverview Line,Chatham ON N7M 5T1,Dec/16/2024,490000,47,Superior,110.0,115,Superior,1700.0,8,3,1:1,Part/Unfinished,Driveway,,4765502,1.5
+0.12 KM,Detached,2 Storey,1729 Reginald Bart Dr,Kingston ON K7K 0E8,Oct/21/2024,640000,46,Similar,32.8,11,Average,1478.0,12,3,1:1,Part/Full Finished,Single Attached,,4765899,1.5
+0.42 KM,Detached,2 Storey,67 Schooner Dr,Kingston ON K7K 7K1,Mar/31/2025,717000,11,Similar,35.0,23,Superior,1629.0,15,3+1,3:1,Full/Finished,Single Attached,,4765899,3.5
+0.44 KM,Detached,1 Storey,63 Schooner Dr,Kingston ON K7K 7K1,Feb/13/2025,650000,8,Similar,35.0,23,Average,1079.0,8+5,2+1,3:0,Full/Finished,Single Attached,,4765899,3.0
+0.87 KM,Duplex,2 Storey,275 Division St,Kingston ON K7K 3Z7,Feb/12/2025,675000,76+/-,Similar,20.0,100,Superior,1500.0,8,4,2:0,Cellar,Sgl. Det. gar.,,4765948,2.0
+0.72 KM,Triplex,2 Storey,1-21 Cherry St,Kingston ON K7K 3W2,Oct/29/2024,764900,19+/-,Similar,45.0,70,Superior,3000.0,9,5,3:0,Included Above,No Garage,,4765948,3.0
+0.69 KM,Duplex,1 Storey,46 York St,Kingston ON K7K 1P5,Jan/18/2025,617500,2+/-,Similar,36.0,40,Average,2000.0,8,4,2:0,Included Above,Sgl. Det. gar.,,4765948,2.0
+0.24 KM,Townhouse,2 Storey,550 Paine Ave,Kanata ON K2T 0K7,Feb/21/2025,650000,7 +/-,Similar,25.0,2016,Similar,1570.0,6,3,2:1,Full/Finished,Sgl. Att. Gar.,,4768126,2.5
+0.33 KM,Townhouse,2 Storey,524 Paine Ave,Kanata ON K2T 0K7,Feb/27/2025,676000,27 +/-,Similar,27.0,2015,Similar,1869.0,8,5,2:1,Full/Finished,Sgl. Att. Gar.,,4768126,2.5
+0.11 KM,Townhouse,2 Storey,164 Calvington Ave,Kanata ON K2T 0H8,Mar/26/2025,706000,2 +/-,Similar,22.0,2013,Similar,1830.0,7,4,2:1,Full/Finished,Sgl. Att. Gar.,,4768126,2.5
+0.52 KM,Townhouse,2 Storey,965 Linaria Walk,Orléans ON K4A 0H9,Mar/11/2025,627500,14 +/-,Similar,25.39,2009,Inferior,1551.0,6,3,2:1,Full/Finished,Sgl. Att. Gar.,,4768528,2.5
+1.31 KM,Townhouse,2 Storey,2282 Descartes St,Orléans ON K4A 0W4,Jan/23/2025,700994,8 +/-,Similar,23.59,2013,Inferior,1873.0,6,3,2:1,Full/Finished,Sgl. Att. Gar.,,4768528,2.5
+0.27 KM,Townhouse,2 Storey,958 Socca Cres,Orléans ON K4A 5M1,Mar/26/2025,705000,15 +/-,Similar,22.78,2022,Similar,1932.0,7,4,2:1,Full/Finished,Sgl. Att. Gar.,,4768528,2.5
+0.99 KM,Condominium,2 Storey,3518 John Parr Dr,Halifax NS B3K 5V2,Jan/17/2025,434500,4 DOM,Similar,,36,Average,1150.0,6,3,2,,No Garage,,4769110,0.0
+0.14 KM,Condominium,2 Storey,5617 Carriageway Cres,Halifax NS B3K 5K4,Mar/28/2025,465000,7 DOM,Similar,,47,Average,1216.0,6,3,2,Full/Part Finished,Sgl. Att. Gar.,,4769110,0.0
+0.06 KM,Condominium,2 Storey,3882 Novalea Dr,Halifax NS B3K 3G6,Apr/14/2025,434523,3 DOM,Inferior,,51,Average,1500.0,6,3,2,Full/Part Finished,Sgl. Att. Gar.,,4769110,0.0
+14.96 KM,Detached,Bungalow,253 Queen Street,Atwood ON N0G 1B0,Apr/06/2025,825000,10 +/-,Similar,0.49,2011,Average,1567.0,6,2,2F,Full/Finished,Trpl. Att. Gar.,,4769269,2.0
+0.06 KM,Detached,Bungalow,84343 Kent Line,Brussels ON N0G 1H0,Apr/01/2025,1128000,26 +/-,Similar,1.22,2021,Average,1769.0,6,2,2F,Full/Finished,Dbl. Att. Gar.,,4769269,2.0
+26.43 KM,Detached,Bungalow,234 Henry Street,Mitchell ON N0K 1N0,Dec/18/2024,825720,36 +/-,Similar,0.15,2024,Average,1680.0,6,3,2F,Full/Unfinished,Dbl. Att. Gar.,,4769269,2.0
+0.39 KM,Detached,Bungalow,189 Blackhorse Dr,Kemptville ON K0G 1J0,Oct/04/2024,925000,28 +/-,Similar,42.65,2021,Inferior,1814.0,6,2,3:0,Full/Finished,Dbl. Att. Gar.,,4770115,3.0
+0.64 KM,Detached,Bungalow,116 Blackhorse Dr,Kemptville ON K0G 1J0,Nov/04/2024,1100000,28 +/-,Similar,59.59,2020,Inferior,1523.0,6,2,3:0,Full/Part Finished,Dbl. Att. Gar.,,4770115,3.0
+7.73 KM,Detached,Bungalow,13 Tilly Lane,Oxford Mills ON K0G 1S0,Apr/30/2025,1250000,36 +/-,Similar,140.69,2022,Similar,1988.0,8,4,3:0,Full/Finished,Dbl. Att. Gar.,,4770115,3.0
+0.22 KM,Detached,2 Storey,261 Arthur St,Gananoque ON K7G 1B3,Nov/29/2024,640000,112,Similar,60.0,100,Average,1590.0,12,2,1:1,Cellar,No Garage,,4770310,1.5
+0.03 KM,Detached,2.5 Storey,198 South St,Gananoque ON K7G 1A2,Apr/10/2025,550000,8,Similar,63.0,100,Inferior,3440.0,14,4+3,5:0,Cellar,Single Detached,,4770310,5.0
+0.20 KM,Detached,2 Storey,260 John St,Gananoque ON K7G 1A7,Jun/13/2024,600000,17,Similar,60.0,100,Inferior,2336.0,12,4,2:0,Crawl Space,No Garage,,4770310,2.0
+0.06 KM,Condominium,1 Storey,202-550 Talbot Pl,Gananoque ON K7G 3C6,Dec/12/2024,237000,134,Similar,,35,Inferior,819.0,5,2,1:0,Condo Common,1 Space,,4771097,1.0
+1.02 KM,Condominium,1 Storey,404-610 William St S,Gananoque ON K7G 3A4,Feb/08/2025,325000,36,Superior,,45,Average,594.0,7,1,1:0,Condo Common,1 Space,,4771097,1.0
+0.00 KM,Condominium,1 Storey,305-540 Talbot Pl,Gananoque ON K7G 3C6,Jul/23/2024,255000,26,Similar,,35,Average,819.0,6,2,1:0,Condo Common,1 Space,,4771097,1.0
+2.37 KM,Detached,2 Storey,286 Taravista Dr NE,Calgary AB T3J 5L8,Feb/25/2025,827500,33 +/-,Inferior,355.0,19,Superior,2537.4,9,4,2F 2H,Full/Finished,Dbl. Att. Gar.,,4771029,3.0
+2.94 KM,Detached,2 Storey,133 Saddlelake Grove NE,Calgary AB T3J 0N8,Feb/28/2025,830000,35 +/-,Superior,369.0,12,Inferior,2811.0,9,4,4F,Full/Finished,Dbl. Att. Gar.,,4771029,4.0
+0.49 KM,Detached,2 Storey,63 Martinview Cres NE,Calgary AB T3J 2S5,Dec/19/2024,750000,20 +/-,Inferior,489.0,34,Similar,2336.52,9,5,3F,Full/Finished,Dbl. Att. Gar.,,4771029,3.0
+2.41 KM,Detached,3 Storey,116 Ambleside Cres NW,Calgary AB T3P 1S6,Jan/07/2025,942000,55 +/-,Inferior,343.0,1,Superior,3068.75,9,5,4F 1H,Full/Unfinished,Dbl. Att. Gar.,,4771641,4.5
+31.28 KM,Detached,3 Storey,1134 Alpine Ave SW,Calgary AB T2Y 0T2,Jan/27/2025,840000,17 +/-,Similar,240.0,2,Superior,2206.09,6,3,2F 1H,Full/Unfinished,Dbl. Det. Gar.,,4771641,2.5
+2.86 KM,Detached,3 Storey,21 Panora St NW,Calgary AB T3K 0R6,Mar/07/2025,635000,59 +/-,Similar,333.0,14,Inferior,1998.7,8,4,3F 1H,Full/Unfinished,Off Street,,4771641,3.5
+0.31 KM,Detached,4 Level Split,6248 Taralea Pk NE,Calgary AB T3J 5A8,Mar/25/2025,647500,50 +/-,Inferior,416.0,22,Superior,1259.0,6,3,2F,Developed/2F,Dbl. Att. Gar.,,4772017,2.0
+0.43 KM,Detached,Bi-Level,91 Taralea Cres NE,Calgary AB T3J 5A8,Feb/18/2025,565000,123 +/-,Inferior,494.0,21,Superior,1120.0,5,1,1F 1H,Developed/1F,Dbl. Att. Gar.,,4772017,1.5
+0.23 KM,Detached,Bi-Level,232 Taracove Rd NE,Calgary AB T3J 5A2,Apr/25/2025,575000,15 +/-,Inferior,309.0,22,Average,1189.04,6,3,2F,Developed/1F,Gravel pad,,4772017,2.0
+0.21 KM,Detached,2 Storey,130 Hidden Ranch Rd NW,Calgary AB T3A 5S6,Apr/25/2025,668500,56,Superior,10.97,29,Good,1811.0,7,3,2F 1H,Full/Finished,Dbl. Att. Gar.,,4772152,2.5
+0.17 KM,Detached,2 Storey,193 Hidden Ranch Hill NW,Calgary AB T3A 5X6,Feb/21/2025,650000,29,Superior,16.74,27,Good,1554.0,6,3,2f 1H,"Full, Walkout",Dbl. Att. Gar.,,4772152,2.5
+1.69 KM,Detached,2 Storey,10673 Hidden Valley Dr NW,Calgary AB T3A 5V3,Feb/03/2025,700000,4,Similar,11.64,28,Excellent,1548.0,7,3,2F 1H,Full/Finished,Dbl. Att. Gar.,,4772152,2.5
+0.22 KM,Townhouse,2 Storey,42 Sandringham Crt,Brampton ON L6T 3Z3,Jan/25/2025,675000,67,Similar,,50,Similar,1178.0,6,3,2:1,Full/Finished,Sgl. Att. Gar.,,4775892,2.5
+0.18 KM,Townhouse,2 Storey,41 Lincoln Crt,Brampton ON L6T 3Z2,Dec/06/2024,659900,7,Similar,,50,Superior,1178.0,7,3,1:1,Full/Finished,Sgl. Att. Gar.,,4775892,1.5
+1.84 KM,Townhouse,2 Storey,238 Fleetwood Cres,Brampton ON L6T 2E7,Mar/10/2025,628000,12,Similar,,54,Similar,1231.0,7,4,2:0,Full/Finished,Sgl. Att. Gar.,,4775892,2.0
+1.23 KM,Detached,2 Storey,320 Everglade Cir SW,Calgary AB T2Y 4M8,Mar/23/2025,890000,33,Similar,430.0,19,Excellent,2540.0,8,4,2:1,Full/Finished,Dbl. Att. Gar.,,4776066,2.5
+0.28 KM,Detached,2 Storey,161 Everoak Cir SW,Calgary AB T2Y 0A2,Feb/14/2025,900000,6,Superior,386.0,19,Good,2274.0,8,3,2:1,Full Finished/Walkout,Dbl. Att. Gar.,,4776066,2.5
+0.97 KM,Detached,2 Storey,1845 Evergreen Dr SW,Calgary AB T2Y 5B1,Feb/08/2025,905000,10,Similar,445.0,21,Excellent,2431.0,8,3,2:1,Full/Finished,Dbl. Att. Gar.,,4776066,2.5
+3.38 KM,Detached,1 Storey,1584 North Shore Dr,Lowbanks ON N0A 1K0,Feb/27/2025,500000,118,Similar,88.0,63,Inferior,1032.0,7,3,1:0,Full/Unfinished,2 Car Detached,,4773295,1.0
+11.28 KM,Detached,1 Storey,12017 Station Rd,Wainfleet ON L0S 1V0,Dec/11/2024,750000,88,Superior,520.0,1950,Superior,1560.0,7,3,1:0,Full/Unfinished,Driveway,,4773295,1.0
+11.28 KM,Detached,1 Storey,7167 Rainham Rd,Dunnville ON N1A 2W8,May/02/2025,830000,88,Superior,200.0,1970,Superior,1700.0,7,3,2:0,Full/Finished,3.5 Car Detached,,4773295,2.0
+0.78 KM,Detached,2 Storey,6 McIntyre Pl,Langdon AB T0J 1X2,Apr/08/2025,770000,9 +/-,Superior,920.0,20,Good,2352.1,9,3,3F,Full/Finished,Dbl. Att. Gar.,,4775247,3.0
+1.10 KM,Detached,2 Storey,3 Lloyd Cres NE,Langdon AB T0J 1X1,Apr/07/2025,652500,16 +/-,Similar,1012.0,27,Good,1560.55,7,3,2F 1H,Full/Unfinished,Dbl. Att. Gar.,,4775247,2.5
+0.20 KM,Detached,2 Storey,42 Besse Ave,Langdon AB T0J 1X2,Mar/24/2025,785000,18 +/-,Similar,809.0,21,Superior,2238.5,8,4,2F 1H,Full/Finished,Dbl. Att. Gar.,,4775247,2.5
+9.91 KM,Detached,1 Storey,4 Philips Court,Haldimand ON N1A 2W2,Apr/14/2025,1315000,25,Similar,136.0,7,Superior,2000.0,7,3,2:1,Full/Unfinished,3 Car Attached,,4773534,2.5
+10.28 KM,Detached,2 Storey,1376 Bird Road,Haldimand ON N1A 2W2,Mar/28/2025,1195000,16,Similar,115.0,1995,Similar,2009.0,8,3,2:1,Full/Finished,2 Car Attached,,4773534,2.5
+1.60 KM,Detached,2 Storey,54025 Wellandport Rd,Wainfleet ON L0S 1V0,Nov/28/2024,1410000,80,Similar,795.0,45,Inferior,4302.0,8,4,3:1,Full/Finished,2 Car Detached,,4773534,3.5
+3.16 KM,Detached,1 Storey,6040 Middle Side Rd,Amherstburg ON N9V 0C8,Nov/17/2024,674000,12,Similar,150.0,52,Average,1418.0,7,3,2:0,Full/Finished,Dbl. Det. Gar.,,4773833,2.0
+4.69 KM,Detached,1 Storey,7050 County Road 18,Amherstburg ON N9V 2Y7,Feb/11/2025,680000,25,Similar,109.0,70,Average,1089.0,7,6,2:0,Full/Finished,Trpl. Det. Gar.,,4773833,2.0
+2.81 KM,Detached,4 Level Split,737 Concession Rd 2,Amherstburg ON N9V 3R3,Mar/04/2025,760000,15,Similar,85.0,52,Average,2685.0,10,5,2:0,Full/Finished,Dbl. Att. Gar.,,4773833,2.0
+0.40 KM,Detached,1 Storey,605 Truedell Rd,Kingston ON K7M 6S7,Feb/05/2025,595000,6,Inferior,50.0,48,Average,1158.0,7+3,3,1:1,Part/Finished,Single Attached,,4776648,1.5
+0.13 KM,Detached,1 Storey,355 Boxwood St,Kingston ON K7M 0B4,Apr/05/2025,655000,10,Similar,35.0,17,Similar,1537.0,8,3,2:0,Full/Unfinish/WO,Single Attached,,4776648,2.0
+0.45 KM,Detached,Split Level,862 Kilburn St,Kingston ON K7M 6A9,Apr/14/2025,630000,55,Similar,60.0,49,Inferior,1494.0,13,4,2:0,Part/Finished,Double Attached,,4776648,2.0
+0.68 KM,Detached,2 Storey,565 Boulder Creek Cir,Langdon AB T0J 1X3,Mar/28/2025,826000,42,Similar,7840.0,17,Inferior,2342.0,8,3,2:1,Unfinished/Walkout,Quad or More Attached,,4777578,2.5
+0.38 KM,Detached,2 Storey,264 Boulder Creek Dr,Langdon AB T0J 1X3,Apr/25/2025,930000,18,Inferior,8276.0,11,Similar,2700.0,8,3,3:1,Full/Finished,Quad or More Attached,,4777578,3.5
+1.60 KM,Detached,2 Storey,115 Hanson Dr NE,Langdon AB T0J 1X1,Apr/17/2025,837500,36,Inferior,10018.0,14,Inferior,1917.0,7,3,3:1,Full/Finished,2 Atta+ 2 Deta,,4777578,3.5
+0.02 KM,Detached,2 Storey,25 Timberline Crt SW,Calgary AB T3H 6C8,Apr/30/2025,2700000,34 +/-,Superior,839.0,2,Similar,4180.0,9,5,3F 1H,Full Finished/Walkout,Trpl. Att. Gar.,,4776534,3.5
+0.31 KM,Detached,2 Storey,3 Timberline Gate SW,Calgary AB T3H 0W3,Mar/31/2025,1785000,17 +/-,Inferior,947.0,11,Inferior,3436.47,10,3,2F 1H,Full Finished/Walkout,Trpl. Att. Gar.,,4776534,2.5
+2.17 KM,Detached,2 Storey,75 Aspen Summit Crt SW,Calgary AB T3H 0Z3,Apr/08/2025,1700000,35 +/-,Inferior,754.0,10,Inferior,3236.0,9,3,3F 1H,Full Finished/Walkout,Trpl. Att. Gar.,,4776534,3.5
+1.64 KM,Detached,2 Storey,2224 Brightoncrest Green SE,Calgary AB T2Z 5A3,Apr/17/2025,819900,43,Similar,3799.0,11,Superior,2389.0,9,3,3:1,Full/Finished,Dbl. Att. Gar.,,4776574,3.5
+0.13 KM,Detached,2 Storey,3 Copperleaf Pk SE,Calgary AB T2Z 0C1,Feb/14/2025,880868,22,Superior,5360.0,18,Superior,2344.0,9,3,3:1,Full/Fin/Walkout,Dbl. Att. Gar.,,4776574,3.5
+1.16 KM,Detached,2 Storey,579 Copperpond Cir SE,Calgary AB T2Z 0X2,Mar/13/2025,715000,20,Similar,3961.0,15,Similar,2097.0,6,3,3:1,Full/Finished,Dbl. Att. Gar.,,4776574,3.5
+0.70 KM,,2 Storey,77 Taylor Dr,Grand Valley ON L9W 6P4,Apr/28/2025,1028888,,,45.28,4,Good,2341.0,8,3,2F1H,Full/Finished,2 Garage,89 / X11946599,4777828,2.5
+0.55 KM,,2 Storey,14 Grundy Cres,Grand Valley ON L9W 7S7,Feb/07/2025,1070000,,,41.99,2,Good,2432.0,8,4,2F1H,Full/Unfinished,2 Garage,32 / X11907987,4777828,2.5
+0.54 KM,,2 Storey,13 Grundy Cres,Grand Valley ON L9W 7S7,Mar/21/2025,870000,,,47.04,2,Good,1916.0,6,3,2F1H,Full/Unfinished,2 Garage,31 / X11978160,4777828,2.5
+0.21 KM,Fourplex,Bi-Level,1521 27 Ave SW,Calgary AB T2T 1G5,Apr/12/2025,1350000,17,Similar,580.0,52,Superior,186.0,12,8,4F 2H,Full/Finished,Rear parking,,4778535,5.0
+0.22 KM,Fourplex,Bi-Level,1527 28 Ave SW,Calgary AB T2T 1J3,Nov/08/2024,1190000,107,Similar,580.0,74,Inferior,195.0,11,7,4F,Full/Finished,Rear parking,,4778535,4.0
+3.01 KM,Fourplex,Bi-Level,4724 Stanley Rd SW,Calgary AB T2S 2R2,Dec/06/2024,1232000,57,Similar,696.0,70,Similar,150.0,12,8,4F,Full/Finished,Dbl. Det. Gar.,,4778535,4.0
+0.13 KM,Detached,Bungalow,3617 Douglas Woods Hts SE,Calgary AB T2Z 2G4,Apr/16/2025,615000,15,Superior,4596.0,33,Inferior,1286.0,5,2,3:0,Full/Finished,Dbl. Att. Gar.,,4778557,3.0
+0.79 KM,Detached,Bi-Level,56 Douglasview Rise SE,Calgary AB T2Z 2P4,Jan/24/2025,669000,66,Superior,4929.0,30,Inferior,1514.0,6,2,3:0,Full/Finished,Dbl. Att. Gar.,,4778557,3.0
+2.50 KM,Detached,Bungalow,739 Queensland Dr SE,Calgary AB T2J 4S8,Dec/28/2024,600000,16,Inferior,5823.0,49,Similar,1401.0,6,3,2:1,Full/Finished,Sgl. Att. Gar.,,4778557,2.5
+2.81 KM,Detached,2 Storey,7 Peach Blossom Cres,Kitchener ON N2E 3Z6,Apr/11/2025,825000,15 +/-,Similar,3054.0,22,Average,1617.0,8,4,2F1P,Full/Finished,Dbl. Att. Gar.,,4779669,2.5
+2.87 KM,Detached,2 Storey,61 Bush Clover Cres,Kitchener ON N2E 3P8,Feb/21/2025,840000,16 +/-,Similar,3150.0,22,Average,1625.0,6,3,2F1P,Full/Finished,Dbl. Att. Gar.,,4779669,2.5
+0.01 KM,Detached,2 Storey,85 Eastforest Trail,Kitchener ON N2N 3M3,Jan/02/2025,660000,15 +/-,Similar,3653.0,26,Inferior,1453.0,6,3,1F1P,Full/Unfinished,Dbl. Att. Gar.,,4779669,1.5
+0.20 KM,Condominium,1 Storey,701-121 Queen St,Kingston ON K7K 0G6,Mar/05/2025,635000,2,Inferior,,8,Good,825.0,7,2,1:0,,1 Space,,4778791,1.0
+1.37 KM,Condominium,1 Storey,920-652 Princess St,Kingston ON K7L 1E5,Feb/28/2025,405000,21,Inferior,,4,Inferior,609.0,8,2,2:0,,1 Space,,4778791,2.0
+1.09 KM,Condominium,1 Storey,403-501 Frontenac St,Kingston ON K7K 4L9,Nov/23/2024,475000,59,Inferior,,5,Inferior,818.0,5,2,2:0,,1 Space,,4778791,2.0
+0.20 KM,Condominium,1 Storey,701-121 Queen St,Kingston ON K7K 0G6,Mar/05/2025,635000,2,Similar,,8,Good,825.0,7,2,1:0,,1 Space,,4778794,1.0
+1.37 KM,Condominium,1 Storey,920-652 Princess St,Kingston ON K7L 1E5,Feb/28/2025,405000,21,Inferior,,4,Inferior,609.0,8,2,2:0,,1 Space,,4778794,2.0
+1.09 KM,Condominium,1 Storey,403-501 Frontenac St,Kingston ON K7K 4L9,Nov/23/2024,475000,59,Inferior,,5,Inferior,818.0,5,2,2:0,,1 Space,,4778794,2.0
+0.20 KM,Condominium,1 Storey,701-121 Queen St,Kingston ON K7K 0G6,Mar/05/2025,635000,2,Similar,,8,Good,825.0,7,2,1:0,,1 Space,,4778797,1.0
+1.37 KM,Condominium,1 Storey,920-652 Princess St,Kingston ON K7L 1E5,Feb/28/2025,405000,21,Inferior,,4,Inferior,609.0,8,2,2:0,,1 Space,,4778797,2.0
+1.09 KM,Condominium,1 Storey,403-501 Frontenac St,Kingston ON K7K 4L9,Nov/23/2024,475000,59,Inferior,,5,Inferior,818.0,5,2,2:0,,1 Space,,4778797,2.0
+0.47 KM,Detached,2 Storey,123 Sandringham Pl NW,Calgary AB T3K 3V8,Apr/11/2025,760000,28 +/-,Superior,632.0,35,Similar,1788.0,8,3,2F 1H,Developed/1F,Dbl. Att. Gar.,,4778326,2.5
+0.08 KM,Detached,2 Storey,164 Sandpiper Cir NW,Calgary AB T3K 3M5,Mar/08/2025,722500,8 +/-,Superior,372.0,38,Similar,1682.55,7,3,2F 1H,Full/Finished,Dbl. Att. Gar.,,4778326,2.5
+1.41 KM,Detached,4 Level Split,108 Macewan Park Green NW,Calgary AB T3K 4E5,Apr/10/2025,888000,16 +/-,Superior,574.0,33,Good,2100.0,8,3,2F 1H,Developed/1F,Dbl. Att. Gar.,,4778326,2.5
+0.03 KM,Detached,Bungalow,168 Marquis Pl SE,Airdrie AB T4A 1Y6,Apr/02/2025,530000,34 +/-,Similar,713.0,46,Average,1377.9,7,3,2F,Developed/1F,Dbl. Det. Gar.,,4758996,2.0
+0.54 KM,Detached,Bi-Level,1852 Meadowbrook Dr SE,Airdrie AB T4A 1V2,Mar/28/2025,518000,20 +/-,Superior,456.0,42,Average,1071.86,5,3,2F,Part Devel. /1F,Dbl. Det. Gar.,,4758996,2.0
+0.01 KM,Detached,4 Level Split,156 Marquis Pl SE,Airdrie AB T4A 1Y7,Feb/25/2025,565000,12 +/-,Similar,518.0,46,Superior,1085.91,6,3,2F,Devel. WO/1F,Dbl. Det. Gar.,,4758996,2.0
+4.67 KM,Detached,2 Storey,1977 Thorpe Road,Loyalist,Jan/03/2025,830000,32,Similar,1250.0,4,Superior,1844.0,10,3+1,2:0,No Basement,No Garage,,4775785,2.0
+16.86 KM,Detached,2 Storey,116 Dowdle Rd,Newburgh ON K0K 2S0,Apr/04/2025,890000,43,Similar,634.5,112,Superior,3790.0,14,5,2:1,Cellar,Single Attached,,4775785,2.5
+5.81 KM,Detached,2 Storey,3858 County Rd 1 E,Yarker ON K0K 3N0,Apr/04/2025,616000,52,Similar,400.0,141,Inferior,2523.0,11,3,1:1,Crawl Space,Single Detached,,4775785,1.5
+16.85 KM,Detached,Bungalow,8 Hilltop Cres,East Garafraxa ON L9W 6B8,Apr/02/2025,1375000,20 +/-,Similar,2.17,50,Superior,1240.0,6,1,2F,Full/Finished,Dbl. Att. Gar.,,4775292,2.0
+11.17 KM,Detached,Bungalow,5739 Sixth Line,Hillsburgh ON N0B 1Z0,Feb/09/2025,1490000,32 +/-,Similar,2.0,35,Average,1634.0,7,3,2F,Full/Finished,1.5 car attached garage,,4775292,2.0
+12.14 KM,Detached,Bungalow,7167 Seventh Line,Belwood ON N0B 1J0,Nov/20/2024,1150000,15 +/-,Similar,10.0,31,Average,1610.0,6,3,1F,,No garage,,4775292,1.0
+2.94 KM,Detached,1.5 Storey,2738 Isle of Man Rd,Kingston ON K7L 4V3,Nov/20/2024,435000,168,Superior,267.0,105,Superior,814.0,9,2,1:1,Crawl Space,Sgl. Att. Gar.,,4723364,1.5
+9.98 KM,Detached,Bungalow,2480 Hitchcock Rd,Joyceville ON K0H 1Y0,Nov/18/2024,349000,18,Inferior,353.0,60,Inferior,1350.0,7,3,1:0,Cellar,No Garage,,4723364,1.0
+6.44 KM,Detached,2 Storey,1996 McFarlane Rd,Kingston ON K7L 4V3,Oct/04/2024,400000,98,Similar,241.0,125,Average,984.0,12,2+1,1:0,Cellar,Trpl. Det. Gar.,,4723364,1.0
